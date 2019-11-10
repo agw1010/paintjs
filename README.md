@@ -1,3 +1,4 @@
 # paintjs
 Painting board made with VanillaJS
-https://agw1010.github.io/paintjs/
+
+https://agw76638.github.io/paintjs/
